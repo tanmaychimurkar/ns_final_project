@@ -11,7 +11,7 @@ Georgia Lazaridou, Tanmay Chimurkar, Prakhar Bhandari, Kartikey Sharma
 ## Usage
 
 ## Dependencies
-The module has been written in *Python 3.8f* and uses the following packages:
+The module has been written in *Python 3.8* and uses the following packages:
 * [NumPy](http://www.numpy.org/)
 
 ## References
