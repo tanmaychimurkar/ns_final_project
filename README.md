@@ -13,5 +13,6 @@ Georgia Lazaridou, Tanmay Chimurkar, Prakhar Bhandari, Kartikey Sharma
 ## Dependencies
 The module has been written in *Python 3.8* and uses the following packages:
 * [NumPy](http://www.numpy.org/)
+* [NetworkX](https://networkx.org/)
 
 ## References
