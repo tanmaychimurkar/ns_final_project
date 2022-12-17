@@ -6,16 +6,19 @@ The UniSwap liquidity pool network is a decentralized platform that enables user
 Georgia Lazaridou, Tanmay Chimurkar, Prakhar Bhandari, Kartikey Sharma
 
 ## Usage
-* [exploratory_data_analysis.ipynb](exploratory_data_analysis.ipynb): 
-* [centrality.py](centrality.py):
-* [properties.ipynb](properties.ipynb):
-* [nestedness.ipynb](nestedness.ipynb):
-* [robustness.ipynb](robustness.ipynb):
+* [exploratory_data_analysis.ipynb](exploratory_data_analysis.ipynb): Construction of the network and analysis of the components
+* [centrality.py](centrality.py): Calculation of centrality measures
+* [properties.ipynb](properties.ipynb): Calculation of other properties of the network
+* [nestedness.ipynb](nestedness.ipynb): Calculation of the nestedness
+* [robustness.ipynb](robustness.ipynb): Checking how robust the network is
 
 
 ## Dependencies
 The module has been written in *Python 3.8* and uses the following packages:
 * [NumPy](http://www.numpy.org/)
 * [NetworkX](https://networkx.org/)
+* [Pandas]()
+* [Numpy]
+* [cpnet]
 
-## References
+* [NestednessCalculator](https://github.com/tsakim/nestedness/blob/master/nestedness_calculator.py)
