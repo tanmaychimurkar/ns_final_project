@@ -14,11 +14,17 @@ Georgia Lazaridou, Tanmay Chimurkar, Prakhar Bhandari, Kartikey Sharma
 
 
 ## Dependencies
-The module has been written in *Python 3.8* and uses the following packages:
+The code has been written in *Python 3.8* and uses the following packages:
 * [NumPy](http://www.numpy.org/)
 * [NetworkX](https://networkx.org/)
-* [Pandas]()
-* [Numpy]
-* [cpnet]
-
+* [Pandas](https://pandas.pydata.org/)
+* [cpnet](https://pypi.org/project/cpnet/)
+* [powerlaw](https://pypi.org/project/powerlaw/)
+* [matplotlib](https://matplotlib.org/)
+* [datetime](https://docs.python.org/3/library/datetime.html)
+* [seaborn](https://seaborn.pydata.org/)
+* [random](https://docs.python.org/3/library/random.html)
+* [heapq](https://docs.python.org/3/library/heapq.html)
+* [tqdm](https://tqdm.github.io/)
+It also uses the following implemented class:
 * [NestednessCalculator](https://github.com/tsakim/nestedness/blob/master/nestedness_calculator.py)
