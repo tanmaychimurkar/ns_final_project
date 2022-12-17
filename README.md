@@ -26,5 +26,6 @@ The code has been written in *Python 3.8* and uses the following packages:
 * [random](https://docs.python.org/3/library/random.html)
 * [heapq](https://docs.python.org/3/library/heapq.html)
 * [tqdm](https://tqdm.github.io/)
+
 It also uses the following implemented class:
 * [NestednessCalculator](https://github.com/tsakim/nestedness/blob/master/nestedness_calculator.py)
