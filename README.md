@@ -6,7 +6,11 @@ The UniSwap liquidity pool network is a decentralized platform that enables user
 Georgia Lazaridou, Tanmay Chimurkar, Prakhar Bhandari, Kartikey Sharma
 
 ## Usage
-[exploratory_data_analysis.ipynb](exploratory_data_analysis.ipynb)
+[exploratory_data_analysis.ipynb](exploratory_data_analysis.ipynb): 
+[centrality.py](centrality.py):
+[properties.ipynb](properties.ipynb):
+[nestedness.ipynb](nestedness.ipynb):
+
 
 ## Dependencies
 The module has been written in *Python 3.8* and uses the following packages:
